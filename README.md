@@ -11,6 +11,8 @@ all source code have been included.
 <br>
 install Xampp and start server and mysql. 
 <br>
+place this folder in the c driver-xampp-htdocs folder.
+<br>
 then type "localhost/" on any web browser. 
 <br>
 A dashboard will open, then click on phpmyadmin and create new database. 
